@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViniXCorreia
-- 👀 I’m interested in develop in Python for GIS systems. But all kinds of codes get my attention!
-- 🌱 I’m currently learning Pythonm Java, JavaScript and SQL.
-- 💞️ I’m looking to collaborate on projects that use Geographical Intelligence for bussines.
+- 👀 I’m interested in develop all kinds of codes get my attention!
+- 🌱 I’m currently learning Python, Java, JavaScript and SQL.
+- 💞️ I’m looking to collaborate on projects that i can improve my skills in development.
 - 📫 How to reach me: send me a email! vinix.correia@gmail.com
 
 <!---
